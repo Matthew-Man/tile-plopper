@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{3B5B7C55-4F28-8D09-04B3-54DC9FA16800}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Tiles.cs">
+    <Files>
+      <File FileName="Assets/CursorTile.cs" Line="4" Column="19" />
+      <File FileName="Assets/Tiles.cs" Line="10" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tile Plopper" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Resources" expanded="True" />
+              <Node name="Tiles.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../Assets/CursorTile.cs" line="34" column="8" endLine="34" endColumn="59" offsetX="-1" offsetY="-1" expression="gridPreview.GetComponent&lt;Renderer&gt;().material.color" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="26878654-9170-4df5-a6ce-d7f3acb56c30" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
